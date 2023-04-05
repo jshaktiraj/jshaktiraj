@@ -1,4 +1,4 @@
-![logo](https://github.com/jshaktiraj/jshaktiraj/blob/main/devops.jpg)
+![logo](https://github.com/jshaktiraj/jshaktiraj/blob/main/3.png)
 <h1 align="center">Hi 👋, I'm Shaktirajsinh Jadeja</h1>
 <h3 align="center">A passionate DevOps guy from India</h3>
 <img align="right" width="400" alt="DevOps" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/media/3f8bd37028526e0223e5fd780a318360.gif"/>
